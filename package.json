@@ -1,0 +1,13 @@
+{
+  "name": "vapor",
+  "version": "0.0.1",
+  "repository": "git@github.com:albertxing/vapor.git",
+  "author": "Albert Xing <albertxing@users.noreply.github.com>",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
